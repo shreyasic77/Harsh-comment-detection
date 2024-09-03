@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, titled **Why So Harsh**, aims to detect toxic comments and classify them into six mutually independent categories: "harsh," "extremely harsh," "vulgar," "threatening," "disrespect," and "targeted hate." We use a variety of Natural Language Processing (NLP) techniques and machine learning models to achieve this goal.
+This project, titled **Why So Harsh**, aims to detect toxic comments and classify them into six mutually independent categories: "harsh," "extremely harsh," "vulgar," "threatening," "disrespect," and "targeted hate." Variety of Natural Language Processing (NLP) techniques and supervised machine learning models were used to achieve this goal.
 
 ![Banner Image](https://github.com/shreyasic77/Harsh-comment-detection/blob/main/harsh_comment_image.jpeg)
 
